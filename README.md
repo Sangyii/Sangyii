@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sangyii
 - 👀 I’m interested in learning python
-- 🌱 I’m currently learning javascript & python
+- 🌱 I’m currently learning Javascript, HTML, CSS, Python, Django and MongoDB
 - 💞️ I’m looking to collaborate on a project
 
 <!---
