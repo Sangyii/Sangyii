@@ -1,6 +1,12 @@
 # Hi, Sangyii here! 💫
 I'm an entry-level Data Analyst & Data Scientist passionate about turning raw data into meaningful insights and building data-driven solutions. I enjoy solving complex problems using Python, SQL, and machine learning while continuously expanding my skill set in analytics, visualization, and AI.
 
+## ✍ Commits & Contribution
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sangyii/Sangyii/refs/heads/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sangyii/Sangyii/refs/heads/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sangyii/Sangyii/refs/heads/output/github-snake.svg"/>
+</picture>
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SfRzdesrNk) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/charlie.purnomo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/super_sangyi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charlie-purnomo-40bb37347) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Charlie-Purnomo) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20253890) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/beastmaster4990) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/s4ngyi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@thesangyi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charliepurnomo5@gmail.com) 
