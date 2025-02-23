@@ -24,4 +24,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Sangyii&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1&pause=1000&color=FF758F&vCenter=true&width=1000&lines=My+Quotes+of+the+Day)](https://git.io/typing-svg)
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
