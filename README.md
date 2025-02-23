@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A3C4F3&center=true&vCenter=true&width=1000&lines=Hello%2C+Sangyii+here!;How+are+you+doing+today%3F;I+love+Python%2C+ML%2C+and+Cybersecurity!;%E5%BE%88%E9%AB%98%E8%88%88%E8%A6%8B%E5%88%B0%E4%BD%A0!;%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6!;%E0%B8%A2%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81!;%EB%A7%8C%EB%82%98%EC%84%9C+%EB%B0%98%EA%B0%80%EC%9B%8C%EC%9A%94!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=A3C4F3&center=true&vCenter=true&width=1000&lines=Hello%2C+Sangyii+here!;How+are+you+doing+today%3F;I+love+Python%2C+ML%2C+and+Cybersecurity!;%E5%BE%88%E9%AB%98%E8%88%88%E8%A6%8B%E5%88%B0%E4%BD%A0!;%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6!;%E0%B8%A2%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81!;%EB%A7%8C%EB%82%98%EC%84%9C+%EB%B0%98%EA%B0%80%EC%9B%8C%EC%9A%94!)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sangyii/Sangyii/refs/heads/output/github-snake-dark.svg"/>
@@ -24,6 +24,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Sangyii&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1&pause=1000&color=FF758F&vCenter=true&width=1000&lines=My+Quotes+of+the+Day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1&pause=1000&color=d62828&vCenter=true&width=1000&lines=My+Quotes+of+the+Day)](https://git.io/typing-svg)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
