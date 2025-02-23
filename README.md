@@ -1,4 +1,4 @@
-# 💫 Hi, Sangyi here!
+# Hi, Sangyii here! 💫
 I'm an entry-level Data Analyst & Data Scientist passionate about turning raw data into meaningful insights and building data-driven solutions. I enjoy solving complex problems using Python, SQL, and machine learning while continuously expanding my skill set in analytics, visualization, and AI.
 
 
